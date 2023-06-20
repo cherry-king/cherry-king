@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cherry-king
+- 👋 Hi, I’m @cherry-king (Min)
 - 👀 I’m interested in UIUX
 - 🌱 I’m currently learning JS, React and Vuejs.
 - 📫 How to reach me yuenyimun@gmail.com
